@@ -129,7 +129,7 @@
     "spec": 2,
     "background": {
         "url": "https://i.imgur.com/IjEZR3F.png",
-        "alpha": 0.5,
+        "alpha": 1.0,
         "color": "#081924"
     }
 }
