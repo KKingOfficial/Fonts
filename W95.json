@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Windows95",
+    "previewText": "All Your Base Are Belong To Us.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "ggsans-Bold": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "ggsans-BoldItalic": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "ggsans-ExtraBold": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "ggsans-ExtraBoldItalic": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "ggsans-Medium": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "ggsans-MediumItalic": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "ggsans-Normal": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "ggsans-NormalItalic": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "ggsans-Semibold": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "ggsans-SemiboldItalic": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "NotoSans-Bold": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "NotoSans-ExtraBold": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "NotoSans-Medium": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "NotoSans-Normal": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "NotoSans-NormalItalic": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "NotoSans-Semibold": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF",
+        "SourceCodePro-Semibold": "https://github.com/KKingOfficial/Fonts/blob/main/LEVIWINDOWS.TTF"
+    }
+}
