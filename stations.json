@@ -1,0 +1,19 @@
+{
+    "stations": [
+        {
+            "url": "https://fallout.fm:8444/falloutfm10.ogg",
+            "title": "76 Radio",
+            "name": "Fallout 76"
+        },
+        {
+            "url": "https://fallout.fm:8444/falloutfm6.ogg",
+            "title": "Diamond City",
+            "name": "Diamond City Fallout 4"
+        },
+        {
+            "url": "https://fallout.fm:8444/falloutfm3.ogg",
+            "title": "Fallout NV Radio",
+            "name": "Fallout NV Radio"
+        }
+    ]
+}
