@@ -74,6 +74,15 @@
         "PANEL_BG": [
             "#000000"
         ],
+        "CARD_BACKGROUND_DEFAULT": [
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#000000"
+        ],
         "BG_BASE_ACCENT": [
             "#2d0333"
         ],
