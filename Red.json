@@ -1,6 +1,6 @@
 {
-  "name": "It's Red!!",
-  "description": "me when i fuckin red",
+  "name": "It's Ourple!!",
+  "description": "me when i fuckin ourple",
   "authors": [
     {
       "name": "KKing",
@@ -84,7 +84,7 @@
       "#000000"
     ],
     "BG_BASE_ACCENT": [
-      "#2d0333"
+      "#330303"
     ],
     "BG_BASE_FLOATING": [
       "#000000"
@@ -147,7 +147,7 @@
       "#b30b0b"
     ],
     "REDESIGN_ACTIVITY_CARD_BORDER": [
-      "#2d0333"
+      "#330303"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#330303"
