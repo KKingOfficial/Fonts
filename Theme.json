@@ -11,7 +11,16 @@
         "TEXT_STRONG": [
             "#b30ba7"
         ],
+		"BORDER_MUTED": [
+            "#b30ba7"
+        ],
         "TEXT_SUBTLE": [
+            "#b30ba7"
+        ],
+        "BORDER_STRONG": [
+            "#b30ba7"
+        ],
+        "BORDER_SUBTLE": [
             "#b30ba7"
         ],
         "TEXT_DEFAULT": [
@@ -69,6 +78,9 @@
             "#000000"
         ],
         "BG_BASE_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
             "#000000"
         ],
         "BG_BASE_MENTIONED": [
