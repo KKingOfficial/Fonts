@@ -41,6 +41,18 @@
         "INTERACTIVE_MUTED": [
             "#54065e"
         ],
+        "BACKGROUND_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_BASE_LOW": [
+            "#000000"
+        ],
+        "BACKGROUND_BASE_LOWER": [
+            "#000000"
+        ],
+        "BACKGROUND_BASE_LOWEST": [
+            "#000000"
+		],	
         "BG_BASE_PRIMARY": [
             "#000000"
         ],
@@ -48,9 +60,6 @@
             "#000000"
         ],
         "BG_BASE_SECONDARY_ALT": [
-            "#000000"
-        ],
-        "BG_BASE_TERTIARY": [
             "#000000"
         ],
         "BG_BASE_ACCENT": [
