@@ -75,16 +75,16 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#transparent"
+            "transparent"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#transparent"
+            "transparent"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#1a1a1a"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#transparent"
+            "transparent"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#b30ba7"
