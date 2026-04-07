@@ -47,6 +47,21 @@
         "INTERACTIVE_BACKGROUND_ACTIVE": [
             "transparent"
         ],
+        "BACKGROUND_PRIMARY": [
+            "transparent"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "transparent"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "transparent"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "transparent"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "transparent"
+        ],
         "BACKGROUND_ACCENT": [
             "#000000"
         ],
@@ -54,13 +69,13 @@
             "transparent"
         ],
         "BACKGROUND_BASE_LOWER": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_BASE_LOWEST": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -155,12 +170,12 @@
         "PLUM_14": "#2d0333",
         "PLUM_15": "#2d0333",
         "PLUM_16": "#b30ba7",
-        "PLUM_17": "#000000",
-        "PLUM_18": "#000000",
+        "PLUM_17": "transparent",
+        "PLUM_18": "transparent",
         "PLUM_19": "#000000",
         "PLUM_20": "transparent",
         "PLUM_22": "transparent",
-        "PLUM_23": "#000000",
+        "PLUM_23": "transparent",
         "PLUM_24": "#000000",
         "PRIMARY_230": "#b30ba7",
         "PRIMARY_300": "#b30ba7",
