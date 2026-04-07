@@ -51,7 +51,7 @@
             "#000000"
         ],
         "BACKGROUND_BASE_LOW": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_BASE_LOWER": [
             "#000000"
@@ -78,7 +78,10 @@
             "#2d0333"
         ],
         "PANEL_BG": [
-            "#000000"
+            "transparent"
+        ],
+        "CHAT_BACKGROUND": [
+            "transparent"
         ],
         "CARD_BACKGROUND_DEFAULT": [
             "#000000"
@@ -147,16 +150,16 @@
         "PLUM_6": "#b30ba7",
         "PLUM_9": "#7b0a8a",
         "PLUM_10": "#7b0a8a",
-        "PLUM_11": "#000000",
-        "PLUM_13": "#000000",
+        "PLUM_11": "transparent",
+        "PLUM_13": "transparent",
         "PLUM_14": "#2d0333",
         "PLUM_15": "#2d0333",
         "PLUM_16": "#b30ba7",
         "PLUM_17": "#000000",
         "PLUM_18": "#000000",
         "PLUM_19": "#000000",
-        "PLUM_20": "#000000",
-        "PLUM_22": "#000000",
+        "PLUM_20": "transparent",
+        "PLUM_22": "transparent",
         "PLUM_23": "#000000",
         "PLUM_24": "#000000",
         "PRIMARY_230": "#b30ba7",
