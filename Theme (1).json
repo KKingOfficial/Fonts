@@ -184,6 +184,15 @@
         ],
         "CHAT_INPUT_SEND_BUTTON_ICON_ACTIVE_TINT": [
             "#000000"
+        ],
+        "TEXT_STATUS_OFFLINE": [
+            "#7b0a8a"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#7b0a8a"
+        ],
+        "INTERACTIVE_TEXT_HOVER": [
+            "#7b0a8a"
         ]
     },
     "rawColors": {
