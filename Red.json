@@ -142,6 +142,57 @@
         ],
         "THREAD_CHANNEL_SPINE": [
             "#b30b0b"
+        ],
+        "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": [
+            "#000000"
+        ],
+        "MOBILE_CHATINPUT_BACKGROUND_ACTIVE": [
+            "#000000"
+        ],
+        "MOBILE_CHATINPUT_BORDER_DEFAULT": [
+            "#97979f29"
+        ],
+        "MOBILE_CHATINPUT_BORDER_ACTIVE": [
+            "#97979f33"
+        ],
+        "CHAT_BANNER_BG": [
+            "#000000"
+        ],
+        "CHAT_INPUT_BACKGROUND": [
+            "#000000"
+        ],
+        "INPUT_TEXT_DEFAULT": [
+            "#b30b0b"
+        ],
+        "INPUT_PLACEHOLDER_TEXT_DEFAULT": [
+            "#7b0a0a"
+        ],
+        "INPUT_ICON_DEFAULT": [
+            "#b30b0b"
+        ],
+        "CHAT_INPUT_ICON_DEFAULT_TINT": [
+            "#b30b0b"
+        ],
+        "CHAT_INPUT_ACTION_BUTTON_ICON_DEFAULT_TINT": [
+            "#b30b0b"
+        ],
+        "CHAT_INPUT_ACTION_ICON_ACTIVE_TINT": [
+            "#b30b0b"
+        ],
+        "CHAT_INPUT_SEND_BUTTON_ACTIVE_BACKGROUND": [
+            "#b30b0b"
+        ],
+        "CHAT_INPUT_SEND_BUTTON_ICON_ACTIVE_TINT": [
+            "#000000"
+        ],
+        "TEXT_STATUS_OFFLINE": [
+            "#7b0a0a"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#7b0a0a"
+        ],
+        "INTERACTIVE_TEXT_HOVER": [
+            "#7b0a0a"
         ]
     },
     "rawColors": {
@@ -181,7 +232,33 @@
         "RED_460": "#7b0a0a",
         "BLUE_345": "#b30b0b",
         "WHITE_500": "#b30b0b",
-        "BLACK_500": "#000000"
+        "BLACK_500": "#000000",
+        "NEUTRAL_20": "#7b0a0a",
+        "NEUTRAL_21": "#7b0a0a",
+        "NEUTRAL_22": "#7b0a0a",
+        "NEUTRAL_23": "#7b0a0a",
+        "NEUTRAL_24": "#7b0a0a",
+        "NEUTRAL_25": "#7b0a0a",
+        "NEUTRAL_26": "#7b0a0a",
+        "NEUTRAL_27": "#7b0a0a",
+        "NEUTRAL_28": "#7b0a0a",
+        "NEUTRAL_29": "#7b0a0a",
+        "NEUTRAL_30": "#7b0a0a",
+        "NEUTRAL_31": "#7b0a0a",
+        "NEUTRAL_32": "#7b0a0a",
+        "NEUTRAL_33": "#7b0a0a",
+        "NEUTRAL_34": "#7b0a0a",
+        "NEUTRAL_35": "#7b0a0a",
+        "NEUTRAL_36": "#7b0a0a",
+        "NEUTRAL_37": "#7b0a0a",
+        "NEUTRAL_38": "#7b0a0a",
+        "NEUTRAL_39": "#7b0a0a",
+        "NEUTRAL_40": "#7b0a0a",
+        "NEUTRAL_41": "#7b0a0a",
+        "NEUTRAL_42": "#7b0a0a",
+        "NEUTRAL_43": "#7b0a0a",
+        "NEUTRAL_44": "#7b0a0a",
+        "NEUTRAL_45": "#7b0a0a"
     },
     "background": {
         "blur": 0,
